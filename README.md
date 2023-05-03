@@ -9,4 +9,5 @@ Mata Kuliah : Pemograman Mobile
 membuat desain dari figma dan mengubah desain yang di buat menjadi coding yang di tulis di snack expo
 saya membuat desain aplikasi menyerupai inbox dari Direct Message Instagram yang sedikit saya ubah ubah
 
-untuk link ScackExpo: https://snack.expo.dev/dkQteBcMK
+untuk Link ScackExpo: https://snack.expo.dev/dkQteBcMK
+untuk Link Figma    : https://www.figma.com/file/2EbkjAM0TXUb0MH6b8r1Ev/Untitled?type=design&node-id=0%3A1&t=gPY3TlpvEHMgMfEq-1
